@@ -1,7 +1,3 @@
-Got it! Here’s a tailored NSFW version for your SkyShield repository:
-
----
-
 # SkyShield NSFW
 
 SkyShield NSFW is a curated filter list for [Bluesky](https://bsky.app) that blocks or mutes NSFW content, allowing you to enjoy a clean, professional feed.
