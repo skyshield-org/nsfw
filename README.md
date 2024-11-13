@@ -6,7 +6,7 @@ SkyShield NSFW is a curated filter list for [Bluesky](https://bsky.app) that blo
 
 ## Features
 
-- **Block NSFW Content**: SkyShield filters out posts containing adult keywords and users known for NSFW content.
+- **Block NSFW Content**: SkyShield filters out users known for NSFW content.
 - **Community-Driven**: Join our community to expand the list and keep your feed safe.
 
 ---
