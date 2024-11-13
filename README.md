@@ -24,7 +24,7 @@ To start using SkyShield NSFW on Bluesky, subscribe to the list below:
 Help enhance SkyShield NSFW by adding new terms or users:
 
 1. Fork this repository.
-2. Update the `nsfw_blocklist.json` with new entries.
+2. Update the `blocklist.json` with new entries.
 3. Submit a pull request with a short summary of your additions.
 
 All contributions are reviewed, and relevant changes will be merged for an effective filter list.
